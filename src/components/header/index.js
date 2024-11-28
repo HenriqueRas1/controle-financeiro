@@ -8,7 +8,6 @@ const Header = () => {
         <C.Title>Controle Financeiro</C.Title>
       </C.Header>
     </C.Container>
-  
   );
 };
 
